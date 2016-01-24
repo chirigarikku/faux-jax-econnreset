@@ -1,4 +1,4 @@
-## faux-jax-econnreset
+## faux-jax-econnreset [FIXED]
 A bug with faux-jax causing ECONNRESET.
 
 Track issue on [faux-jax#11](https://github.com/algolia/faux-jax/issues/11).
